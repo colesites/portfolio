@@ -508,3 +508,11 @@ a > img {
     height: 80px;
     transform: scale(0.42);
 }
+
+.project-content a {
+    text-decoration: none;
+}
+
+.project-content li {
+    list-style: none;
+}
