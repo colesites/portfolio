@@ -509,10 +509,10 @@ a > img {
     transform: scale(0.42);
 }
 
-.project-content, a {
+a {
     text-decoration: none;
 }
 
-.project-content, li {
+li {
     list-style: none;
 }
